@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [News Homepage](https://slightlyfunctional.gitlab.io/news-homepage/)
+- Live Site URL: [News Homepage](https://alexl8819.gitlab.io/news-homepage/)
 
 ## My process
 
@@ -52,5 +52,4 @@ I learned how to use the offscreen functionality using tailwind-elements.
 
 ## Author
 
-- Website - [slightlyfunctional.com](https://slightlyfunctional.com)
-- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/slightlyfunctional)
+- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/alexl8819)
