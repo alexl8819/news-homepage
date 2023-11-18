@@ -52,4 +52,4 @@ I learned how to use the offscreen functionality using tailwind-elements.
 
 ## Author
 
-- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/alexl8819)
+- Frontend Mentor - [@alexl8819](https://www.frontendmentor.io/profile/alexl8819)
